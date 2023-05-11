@@ -36,7 +36,7 @@ Për të filluar me aplikacionin, mund të klononi depozitë dhe të hapni skeda
 
 Nëse keni hapur aplikacionin në shfletuesin tuaj, mund të filloni duke shtuar detyra në listë duke përdorur fushën e hyrjes dhe butonin "Shto". Për të shënuar një detyrë si të kryer, klikoni butonin me shenjën e kontrollit në të djathtë të detyrës. Për të fshirë një detyrë nga lista, klikoni butonin e koshit të plehrave në të djathtë të detyrës.
 
-Mund të filtroni gjithashtu detyrat duke klikuar në menynë e filtrit dhe duke zgjedhur `All`, `Completed` ose `Unompleted`.
+Mund të filtroni gjithashtu detyrat duke klikuar në menynë e filtrit dhe duke zgjedhur `All`, `Completed` ose `Uncompleted`.
 
 ## Kontributi 👏
 
