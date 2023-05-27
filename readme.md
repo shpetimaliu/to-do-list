@@ -41,4 +41,4 @@ Mund të filtroni gjithashtu detyrat duke klikuar në menynë e filtrit dhe duke
 ## Kontributi 👏
 
 Nëse dëshironi të kontribuoni në projekt, mund të dërgoni një pull request me ndryshimet tuaja.
-# to-do-list
+
